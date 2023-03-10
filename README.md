@@ -2,7 +2,7 @@
 Dart &amp; Flutter
 
 
-![Screenshot_1673625266](https://user-images.githubusercontent.com/95686166/212363508-aabf0e16-c5f7-4edb-9729-72c4ce875028.png 100x200)
+![Screenshot_1673625266](https://user-images.githubusercontent.com/95686166/212363508-aabf0e16-c5f7-4edb-9729-72c4ce875028.png)
 
 
 ![Screenshot_1673625261](https://user-images.githubusercontent.com/95686166/212363556-41b1bc3b-b61b-473f-9a61-303cc617209d.png)
