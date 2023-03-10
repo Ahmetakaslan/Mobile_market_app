@@ -1,6 +1,6 @@
 # Mobile_market_app
 Dart &amp; Flutter
- ##<img src="https://user-images.githubusercontent.com/95686166/212363508-aabf0e16-c5f7-4edb-9729-72c4ce875028.png" width="100" height="200">
+
 
 ![Screenshot_1673625266](https://user-images.githubusercontent.com/95686166/212363508-aabf0e16-c5f7-4edb-9729-72c4ce875028.png)
 
@@ -20,4 +20,4 @@ Dart &amp; Flutter
 ![Screenshot_1673625284](https://user-images.githubusercontent.com/95686166/212363836-590f7e6a-897f-47a2-b876-eefe597cd0cd.png)
 
 
-
+<img src="https://user-images.githubusercontent.com/95686166/212363508-aabf0e16-c5f7-4edb-9729-72c4ce875028.png" width="100" height="200">
